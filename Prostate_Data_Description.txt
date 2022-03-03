@@ -1,0 +1,14 @@
+To identify the type of Cancer (Malignant and Bening)
+
+This is a binary classification and the attributes are given as follows
+
+id
+diagnosis_result
+radius,texture
+perimeter
+area
+smoothness
+compactness
+symmetry
+fractal_dimension
+
